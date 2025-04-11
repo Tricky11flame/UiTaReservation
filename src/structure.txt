@@ -1,0 +1,56 @@
+.
+├── App.tsx
+├── component
+│   ├── body
+│   │   ├── Body.tsx
+│   │   └── card
+│   │       ├── body
+│   │       │   ├── Body.tsx
+│   │       │   ├── rowLeft
+│   │       │   │   ├── Booking.tsx
+│   │       │   │   ├── ChekIn.tsx
+│   │       │   │   ├── Guests.tsx
+│   │       │   │   ├── RowLeft.tsx
+│   │       │   │   └── ViewRoom.tsx
+│   │       │   └── rowRight
+│   │       │       ├── Amount.tsx
+│   │       │       ├── Contact.tsx
+│   │       │       ├── Docs.tsx
+│   │       │       └── RowRight.tsx
+│   │       ├── Card.tsx
+│   │       └── title
+│   │           ├── Dot.tsx
+│   │           ├── Status.tsx
+│   │           └── Title.tsx
+│   └── title
+│       ├── lower
+│       │   ├── Date.tsx
+│       │   ├── Filter.tsx
+│       │   ├── Lower.tsx
+│       │   └── Search.tsx
+│       ├── Title.tsx
+│       └── upper
+│           ├── Action.tsx
+│           ├── Create.tsx
+│           ├── Menu.tsx
+│           └── Upper.tsx
+├── components
+│   └── ui
+│       ├── button.tsx
+│       ├── calendar.tsx
+│       ├── command.tsx
+│       ├── dialog.tsx
+│       ├── dropdown-menu.tsx
+│       ├── popover.tsx
+│       ├── scroll-area.tsx
+│       ├── select.tsx
+│       └── separator.tsx
+├── index.css
+├── lib
+│   └── utils.ts
+├── main.tsx
+├── structure.txt
+├── types
+└── vite-env.d.ts
+
+15 directories, 39 files

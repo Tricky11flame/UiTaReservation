@@ -1,0 +1,37 @@
+.
+├── body
+│   ├── Body.tsx
+│   └── card
+│       ├── body
+│       │   ├── Body.tsx
+│       │   ├── rowLeft
+│       │   │   ├── Booking.tsx
+│       │   │   ├── ChekIn.tsx
+│       │   │   ├── Guests.tsx
+│       │   │   ├── RowLeft.tsx
+│       │   │   └── ViewRoom.tsx
+│       │   └── rowRight
+│       │       ├── Amount.tsx
+│       │       ├── Contact.tsx
+│       │       ├── Docs.tsx
+│       │       └── RowRight.tsx
+│       ├── Card.tsx
+│       └── title
+│           ├── Dot.tsx
+│           ├── Status.tsx
+│           └── Title.tsx
+├── structure.txt
+└── title
+    ├── lower
+    │   ├── Date.tsx
+    │   ├── Filter.tsx
+    │   ├── Lower.tsx
+    │   └── Search.tsx
+    ├── Title.tsx
+    └── upper
+        ├── Action.tsx
+        ├── Create.tsx
+        ├── Menu.tsx
+        └── Upper.tsx
+
+10 directories, 25 files
